@@ -47,14 +47,14 @@ public class MessageHandler {
 
     //配置了messageConverter之后，mq中的数据是{"id":1,"message":"Hello world"}
     //可以直接在客户端解析，非常方便
-    @RabbitListener(
+    /*@RabbitListener(
             queues = "${rabbitmq.simple.queue}",
             containerFactory = "autoAckContainerFactory"
     )
     public void onSimpleQueueMessage(Spittle spittle) {
 
         LOGGER.info("Recieved Message: {}",spittle);
-    }
+    }*/
 
     @RabbitListener(
             bindings = @QueueBinding(

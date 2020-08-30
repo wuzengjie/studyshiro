@@ -29,6 +29,7 @@ public class UserController {
         try {
             subject.login(usernamePasswordToken);
         }catch (Exception e){
+            //e.printStackTrace();
             System.out.println("错误信息-----------"+e.getMessage());
             return e.getMessage();
         }

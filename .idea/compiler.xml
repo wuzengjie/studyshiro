@@ -6,8 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="demo" />
         <module name="rabbitmq-consumer" />
-        <module name="rabbitmq-producer" />
+        <module name="rabbitmq-consumer-test" />
+        <module name="rabbitmq-producer-test" />
         <module name="shirotest" />
         <module name="shiroweb2" />
       </profile>
@@ -15,7 +17,9 @@
     <bytecodeTargetLevel>
       <module name="demo" target="1.8" />
       <module name="rabbitmq-consumer" target="1.8" />
+      <module name="rabbitmq-consumer-test" target="1.8" />
       <module name="rabbitmq-producer" target="1.8" />
+      <module name="rabbitmq-producer-test" target="1.8" />
       <module name="shiro_web" target="1.5" />
       <module name="shirotest" target="1.5" />
       <module name="shiroweb" target="1.5" />

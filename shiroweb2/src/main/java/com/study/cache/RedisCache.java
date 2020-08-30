@@ -29,14 +29,14 @@ public class RedisCache<K,V> implements Cache<K,V> {
     //获取缓存中所有的value
     public Collection<V> values(); */
 
-    private final String SHIRO_SESSION_PREFIX="STUDYSHIRO-SESSION";
+    private final String SHIRO_CACHE_PREFIX="STUDYSHIRO-CACHE";
 
     @Resource
     private JedisUtil jedisUtil;
 
     private byte[] getKey(K k){
         if(k instanceof  String){
-            return (SHIRO_SESSION_PREFIX+k).getBytes();
+            return (SHIRO_CACHE_PREFIX+k).getBytes();
         }
         return SerializationUtils.serialize(k);
     }

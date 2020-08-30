@@ -1,0 +1,1746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="shiroweb2:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4ebdbf5-7bd4-4f57-b88f-2ffc25ca23d3" name="Default" comment="修改数据">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-consumer-test/.mvn/wrapper/maven-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/.mvn/wrapper/maven-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_itextpdf_itext_asian_5_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_itextpdf_itextpdf_5_5_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_java6_2_3_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_coobird_thumbnailator_0_4_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_json_lib_json_lib_jdk15_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_pdfbox_fontbox_2_0_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_pdfbox_pdfbox_2_0_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_quartz_scheduler_quartz_2_3_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_29.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_log4j_1_3_8_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_2_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-consumer-test/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-consumer-test/.mvn/wrapper/MavenWrapperDownloader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-consumer-test/.mvn/wrapper/maven-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-consumer-test/mvnw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-consumer-test/mvnw.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-consumer-test/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-consumer-test/src/main/java/com/example/rabbitmqconsumer/RabbitmqConsumerApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-consumer-test/src/main/java/com/example/rabbitmqconsumer/model/Spittle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-consumer-test/src/main/java/com/example/rabbitmqconsumer/service/DeadLetterQueueConsumer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-consumer-test/src/main/java/com/example/rabbitmqconsumer/service/MessageHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-consumer-test/src/main/java/com/example/rabbitmqconsumer/util/JsonConvertUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-consumer-test/src/main/resources/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-consumer-test/src/test/java/com/example/rabbitmqconsumer/RabbitmqConsumerApplicationTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/.mvn/wrapper/MavenWrapperDownloader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/.mvn/wrapper/maven-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/mvnw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/mvnw.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/RabbitmqProducerApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/config/AmqpConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/config/RabbitMQConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/controller/RabbitmqController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/model/DelayTypeEnum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/model/Spittle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/service/DelayMessageSender.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/service/RabbitmqService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/service/RabbitmqServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/util/FastJsonConvertUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/src/main/resources/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/src/test/java/com/example/demo/RabbitmqProducerApplicationTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/AutoJobActDis.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/PdfUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/RedisDistributedLock.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/offsetsDetail.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring-mvc-quartz1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/shiroweb2_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/shiroweb2_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rabbitmq-consumer/src/main/java/com/example/rabbitmqconsumer/RabbitmqConsumerApplication.java" afterPath="$PROJECT_DIR$/rabbitmq-consumer/src/main/java/com/example/rabbitmqconsumer/RabbitmqConsumerApplication.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rabbitmq-consumer/src/main/java/com/example/rabbitmqconsumer/service/MessageHandler.java" afterPath="$PROJECT_DIR$/rabbitmq-consumer/src/main/java/com/example/rabbitmqconsumer/service/MessageHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rabbitmq-consumer/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/rabbitmq-consumer/src/main/resources/application.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rabbitmq-producer/src/main/java/com/example/demo/config/AmqpConfig.java" afterPath="$PROJECT_DIR$/rabbitmq-producer/src/main/java/com/example/demo/config/AmqpConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rabbitmq-producer/src/main/java/com/example/demo/service/RabbitmqServiceImpl.java" afterPath="$PROJECT_DIR$/rabbitmq-producer/src/main/java/com/example/demo/service/RabbitmqServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rabbitmq-producer/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/rabbitmq-producer/src/main/resources/application.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiroweb2/pom.xml" afterPath="$PROJECT_DIR$/shiroweb2/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiroweb2/shiroweb2.iml" afterPath="$PROJECT_DIR$/shiroweb2/shiroweb2.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/cache/RedisCache.java" afterPath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/cache/RedisCache.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/controller/UserController.java" afterPath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/controller/UserController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/session/CustomSessionManager.java" afterPath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/session/CustomSessionManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/session/RedisSessionDao.java" afterPath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/session/RedisSessionDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/shiro/realm/CustomRealm.java" afterPath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/shiro/realm/CustomRealm.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/JedisUtil.java" afterPath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/JedisUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring-redis.xml" afterPath="$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring-redis.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring.xml" afterPath="$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring.xml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/shirotest/target/" />
+    <ignored path="$PROJECT_DIR$/shiro_web/target/" />
+    <ignored path="$PROJECT_DIR$/shiroweb/target/" />
+    <ignored path="$PROJECT_DIR$/shiroweb2/target/" />
+    <ignored path="$PROJECT_DIR$/rabbitmq-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/demo/target/" />
+    <ignored path="$PROJECT_DIR$/rabbitmq-producer/target/" />
+    <ignored path="$PROJECT_DIR$/rabbitmq-producer-test/target/" />
+    <ignored path="$PROJECT_DIR$/rabbitmq-consumer-test/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="shiroTest@localhost" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="shiroTest@localhost" type="e3449647:DbNodeDescriptor" />
+        <item name="shirotest" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="shiroTest@localhost" type="e3449647:DbNodeDescriptor" />
+        <item name="shirotest" type="e3449647:DbNodeDescriptor" />
+        <item name="user_roles" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="shiroTest@localhost" type="e3449647:DbNodeDescriptor" />
+        <item name="shirotest" type="e3449647:DbNodeDescriptor" />
+        <item name="users" type="e3449647:DbNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="JedisUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/JedisUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AutoJobActDis.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/AutoJobActDis.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedisDistributedLock.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/RedisDistributedLock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spring-mvc-quartz1.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring-mvc-quartz1.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="offsetsDetail.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/offsetsDetail.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="25" />
+              <folding>
+                <element signature="e#83#84#0" expanded="true" />
+                <element signature="e#132#133#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedisCacheManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/cache/RedisCacheManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomRealm.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/shiro/realm/CustomRealm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spring.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="49" column="42" lean-forward="false" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomSessionManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/session/CustomSessionManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="29" column="47" lean-forward="false" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring" />
+        <option value="HTML File" />
+        <option value="Enum" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getPermissionsByUserName</find>
+      <find>jedisPool</find>
+      <find>cache</find>
+      <find>cacheManager</find>
+      <find>mysql</find>
+      <find>convertAndSend</find>
+      <find>comm</find>
+      <find>Message</find>
+      <find>DEAD_LETTER_QUEUEB_NAME</find>
+      <find>Queue</find>
+      <find>QUEUE_NAME</find>
+      <find>deadLetterQueueA</find>
+      <find>amqpAdmin</find>
+      <find>DELAY_QUEUEB_NAME</find>
+      <find>DELAY_QUEUEA_NAME</find>
+      <find>DELAY_EXCHANGE_NAME</find>
+      <find>DELAY_QUEUEA_ROUTING_KEY</find>
+      <find>delayQueueB</find>
+      <find>delayQueueA</find>
+      <find>credentialsSalt</find>
+      <find>quartz</find>
+      <find>spring</find>
+      <find>core</find>
+      <find>开始定时</find>
+      <find>cronExpression</find>
+      <find>targetMethod</find>
+      <find>method</find>
+      <find>lpushRedisFlag</find>
+      <find>CustomRealm</find>
+      <find>RedisDistributedLock</find>
+    </findStrings>
+    <dirStrings>
+      <dir>E:\idea\studyshiro\shiroweb</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/shiroweb2/src/main/webapp/403.html" />
+        <option value="$PROJECT_DIR$/shiroweb2/src/main/webapp/500.html" />
+        <option value="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.9.RELEASE/spring-core-5.1.9.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class" />
+        <option value="$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.9.RELEASE/spring-aop-5.1.9.RELEASE.jar!/org/springframework/aop/framework/CglibAopProxy.class" />
+        <option value="$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.9.RELEASE/spring-aop-5.1.9.RELEASE.jar!/org/springframework/aop/target/SingletonTargetSource.class" />
+        <option value="$PROJECT_DIR$/shiroweb2/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/shiroweb2/src/main/webapp/WEB-INF/success.html" />
+        <option value="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/cache/RedisCacheManager.java" />
+        <option value="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/cache/RedisCache.java" />
+        <option value="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/PdfUtils.java" />
+        <option value="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/session/CustomSessionManager.java" />
+        <option value="$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring-redis.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-consumer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/rabbitmq-consumer/src/main/java/com/example/rabbitmqconsumer/RabbitmqConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-producer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/rabbitmq-producer/src/main/java/com/example/demo/service/RabbitmqServiceImpl.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/config/AmqpConfig.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/RabbitmqProducerApplication.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-consumer-test/src/main/java/com/example/rabbitmqconsumer/util/JsonConvertUtils.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/util/FastJsonConvertUtil.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-consumer/src/main/java/com/example/rabbitmqconsumer/service/MessageHandler.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-consumer-test/src/main/java/com/example/rabbitmqconsumer/model/Spittle.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/model/Spittle.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/service/RabbitmqService.java" />
+        <option value="$MAVEN_REPOSITORY$/org/springframework/retry/spring-retry/1.2.4.RELEASE/spring-retry-1.2.4.RELEASE.jar!/org/springframework/retry/support/RetryTemplate.class" />
+        <option value="$MAVEN_REPOSITORY$/org/springframework/retry/spring-retry/1.2.4.RELEASE/spring-retry-1.2.4.RELEASE.jar!/org/springframework/retry/backoff/FixedBackOffPolicy.class" />
+        <option value="$PROJECT_DIR$/rabbitmq-producer-test/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/rabbitmq-consumer-test/src/main/java/com/example/rabbitmqconsumer/config/AmqpConfig.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-consumer-test/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/rabbitmq-consumer-test/src/main/java/com/example/rabbitmqconsumer/service/MessageHandler.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-producer-test/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-consumer-test/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/model/DelayTypeEnum.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/config/RabbitMQConfig.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-consumer-test/src/main/java/com/example/rabbitmqconsumer/service/DeadLetterQueueConsumer.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/service/RabbitmqServiceImpl.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/service/DelayMessageSender.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/controller/RabbitmqController.java" />
+        <option value="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/shiro/realm/CustomRealm.java" />
+        <option value="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/session/RedisSessionDao.java" />
+        <option value="$PROJECT_DIR$/shiroweb2/pom.xml" />
+        <option value="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.9.RELEASE/spring-core-5.1.9.RELEASE.jar!/org/springframework/util/MethodInvoker.class" />
+        <option value="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/Job1.java" />
+        <option value="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/JedisUtil.java" />
+        <option value="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/offsetsDetail.java" />
+        <option value="$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring.xml" />
+        <option value="$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring-mvc-quartz1.xml" />
+        <option value="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/AutoJobActDis.java" />
+        <option value="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/RedisDistributedLock.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="rabbitmq-consumer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="rabbitmq-producer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="rabbitmq-producer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="shiro-web2" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="shiro-web2" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="study-shiro" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1378" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq-consumer-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq-consumer-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq-consumer-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq-consumer-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq-consumer-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmqconsumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq-consumer-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmqconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq-producer-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq-producer-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq-producer-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq-producer-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq-producer-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq-producer-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq-producer-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq-producer-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq-producer-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="shiroweb2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="shiroweb2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="shiroweb2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="shiroweb2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="shiroweb2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="shiroweb2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="cache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="shiroweb2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="shiroweb2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="session" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="shiroweb2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="realm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="shiroweb2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="shiroweb2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="shiroweb2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="shiroweb2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="shiroweb2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.23510972" />
+    <property name="nodejs_interpreter_path" value="D:/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.27941176" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\idea\studyshiro\rabbitmq-producer\src\main\java\com\example\demo\config" />
+      <recent name="E:\idea\studyshiro\rabbitmq-producer\src\main\java\com\example\demo\controller" />
+      <recent name="E:\idea\studyshiro\rabbitmq-consumer-test\src\main\java\com\example\rabbitmqconsumer\config" />
+      <recent name="E:\idea\studyshiro\shiroweb2\src\main\webapp\WEB-INF" />
+      <recent name="E:\idea\studyshiro\shiroweb2\src\main\webapp" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.demo.model" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.study.shiro.realm" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea\studyshiro" />
+      <recent name="E:\idea\studyshiro\rabbitmq-producer-test\src\main\java\com\example\demo\util" />
+      <recent name="E:\idea\studyshiro\shiroweb2\src\main\webapp" />
+      <recent name="E:\idea\studyshiro\rabbitmq-consumer\src\main\java\com\example\rabbitmqconsumer\util" />
+      <recent name="E:\idea\studyshiro\rabbitmq-producer\src\main\java\com\example\demo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.shiro-web">
+    <configuration name="CustomRealm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.study.shiro.realm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.study.shiro.realm.CustomRealm" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://E:/idea-workspace" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="shiroweb2" />
+      <envs />
+    </configuration>
+    <configuration name="CustomReam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.study.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.study.test.CustomReam" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://E:/idea-workspace" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="shirotest" />
+      <envs />
+    </configuration>
+    <configuration name="PdfUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.study.util.JedisUtil" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.study.util.PdfUtils" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://E:/idea-workspace" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="shiroweb2" />
+      <envs />
+    </configuration>
+    <configuration name="RabbitmqConsumerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.example.rabbitmqconsumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.rabbitmqconsumer.RabbitmqConsumerApplication" />
+      <module name="rabbitmq-consumer-test" />
+      <envs />
+    </configuration>
+    <configuration name="RabbitmqConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.rabbitmqconsumer.RabbitmqConsumerApplication" />
+      <module name="rabbitmq-consumer" />
+      <envs />
+    </configuration>
+    <configuration name="RabbitmqProducerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.RabbitmqProducerApplication" />
+      <module name="rabbitmq-producer-test" />
+      <envs />
+    </configuration>
+    <configuration name="RabbitmqProducerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.RabbitmqProducerApplication" />
+      <module name="rabbitmq-producer" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://E:/idea-workspace" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="HOT_SWAP_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="hot-swap-classes" />
+      <deployment>
+        <artifact name="shiroweb2:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_studyshiro" />
+        <option name="HTTP_PORT" value="8080" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52679" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" value="" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="shiro-web" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.46" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/login.html" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="shiroweb2:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_studyshiro" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52679" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="shiroweb2:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list size="8">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.RabbitmqProducerApplication" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.RabbitmqConsumerApplication" />
+      <item index="2" class="java.lang.String" itemvalue="Tomcat Server.shiro-web" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CustomReam" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CustomRealm" />
+      <item index="5" class="java.lang.String" itemvalue="Application.PdfUtils" />
+      <item index="6" class="java.lang.String" itemvalue="Spring Boot.RabbitmqProducerApplication (1)" />
+      <item index="7" class="java.lang.String" itemvalue="Spring Boot.RabbitmqConsumerApplication (1)" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Spring Boot.RabbitmqProducerApplication (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Spring Boot.RabbitmqConsumerApplication (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PdfUtils" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CustomRealm" />
+        <item index="4" class="java.lang.String" itemvalue="Application.CustomReam" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4ebdbf5-7bd4-4f57-b88f-2ffc25ca23d3" name="Default" comment="" />
+      <created>1566091054799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566091054799</updated>
+      <workItem from="1566091059120" duration="22005000" />
+      <workItem from="1570350933325" duration="3635000" />
+      <workItem from="1570354612385" duration="1760000" />
+      <workItem from="1570356417619" duration="16181000" />
+      <workItem from="1570435384114" duration="5612000" />
+      <workItem from="1573283771918" duration="4519000" />
+      <workItem from="1573312584794" duration="39322000" />
+      <workItem from="1575074835049" duration="29046000" />
+      <workItem from="1578137248700" duration="9347000" />
+      <workItem from="1582381073906" duration="2112000" />
+      <workItem from="1582762991320" duration="33000" />
+      <workItem from="1582766112288" duration="210000" />
+      <workItem from="1582785422173" duration="4125000" />
+      <workItem from="1582789586847" duration="1672000" />
+      <workItem from="1583023331489" duration="567000" />
+      <workItem from="1586654477499" duration="101000" />
+      <workItem from="1588161088046" duration="2474000" />
+      <workItem from="1588496598077" duration="2302000" />
+      <workItem from="1588555937663" duration="1131000" />
+      <workItem from="1588557232286" duration="55000" />
+      <workItem from="1588557522908" duration="4321000" />
+      <workItem from="1588576184502" duration="2139000" />
+      <workItem from="1588584868047" duration="962000" />
+      <workItem from="1596113493191" duration="202000" />
+      <workItem from="1596245040308" duration="21731000" />
+      <workItem from="1596698988954" duration="14740000" />
+      <workItem from="1596676377794" duration="12449000" />
+      <workItem from="1596756933418" duration="2122000" />
+      <workItem from="1597197956549" duration="6199000" />
+      <workItem from="1597495583828" duration="935000" />
+      <workItem from="1597550453922" duration="3457000" />
+      <workItem from="1598188125697" duration="657000" />
+      <workItem from="1598684255447" duration="1396000" />
+      <workItem from="1598686490406" duration="3046000" />
+      <workItem from="1598690361264" duration="5771000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CustomRealmTest_testAuthentication - 2019.09.08 at 14h 17m 22s.xml">
+      <configuration name="CustomRealmTest.testAuthentication" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomRealmTest_testAuthentication - 2019.09.08 at 14h 19m 01s.xml">
+      <configuration name="CustomRealmTest.testAuthentication" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomRealmTest_testAuthentication - 2019.10.06 at 15h 04m 11s.xml">
+      <configuration name="CustomRealmTest.testAuthentication" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomRealmTest_testAuthentication - 2019.10.06 at 15h 56m 24s.xml">
+      <configuration name="CustomRealmTest.testAuthentication" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomRealmTest_testAuthentication - 2019.10.06 at 15h 58m 45s.xml">
+      <configuration name="CustomRealmTest.testAuthentication" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomRealmTest_testAuthentication - 2019.10.06 at 15h 59m 10s.xml">
+      <configuration name="CustomRealmTest.testAuthentication" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomRealmTest_testAuthentication - 2019.10.06 at 16h 01m 44s.xml">
+      <configuration name="CustomRealmTest.testAuthentication" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomRealmTest_testAuthentication - 2019.10.06 at 16h 02m 06s.xml">
+      <configuration name="CustomRealmTest.testAuthentication" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomRealmTest_testAuthentication - 2019.10.06 at 16h 02m 37s.xml">
+      <configuration name="CustomRealmTest.testAuthentication" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomRealmTest_testAuthentication - 2019.10.07 at 15h 22m 47s.xml">
+      <configuration name="CustomRealmTest.testAuthentication" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="226336000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.50214595" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27521458" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18937768" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997722" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22892939" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26879272" sideWeight="0.49785408" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26984978" sideWeight="0.49405771" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23766094" sideWeight="0.5059423" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="maven多模块，整合SpringBoot+rabbitMq，测试shiro,整合ssm+shiro" />
+    <MESSAGE value="maven多模块，整合SpringBoot+rabbitMq，测试shiro,整合ssm+shiro等" />
+    <MESSAGE value="对shiro的理解" />
+    <MESSAGE value="修改数据" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改数据" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/rabbitmq-producer/src/main/java/com/example/demo/producer/RabbitSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq-consumer-test/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq-consumer-test/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="60" column="21" lean-forward="false" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq-consumer-test/src/main/java/com/example/rabbitmqconsumer/config/AmqpConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq-producer/src/main/java/com/example/demo/service/RabbitmqServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="99" column="21" lean-forward="true" selection-start-line="99" selection-start-column="21" selection-end-line="99" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq-producer/src/main/java/com/example/demo/service/RabbitmqService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/model/DelayTypeEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/2.2.1.RELEASE/spring-amqp-2.2.1.RELEASE.jar!/org/springframework/amqp/core/BindingBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="43" column="23" lean-forward="false" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq-consumer-test/src/main/java/com/example/rabbitmqconsumer/config/AmqpConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="90" column="50" lean-forward="false" selection-start-line="90" selection-start-column="35" selection-end-line="90" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq-producer/src/main/java/com/example/demo/config/AmqpConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shirotest/src/main/java/com/study/util/Decrypt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shirotest/src/main/java/com/study/util/Encrypt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="43" column="6" lean-forward="false" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0-sources.jar!/org/apache/shiro/SecurityUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="30" column="22" lean-forward="false" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/webapp/WEB-INF/success.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0-sources.jar!/org/apache/shiro/authc/UsernamePasswordToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="109" column="11" lean-forward="false" selection-start-line="109" selection-start-column="11" selection-end-line="109" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/webapp/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0-sources.jar!/org/apache/shiro/subject/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7450">
+          <caret line="329" column="17" lean-forward="false" selection-start-line="329" selection-start-column="17" selection-end-line="329" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0-sources.jar!/org/apache/shiro/authc/SimpleAuthenticationInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="119" column="120" lean-forward="false" selection-start-line="119" selection-start-column="105" selection-end-line="119" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiroweb2/shiroweb2.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq-consumer-test/src/main/java/com/example/rabbitmqconsumer/service/MessageHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="24" column="54" lean-forward="false" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/util/FastJsonConvertUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/config/AmqpConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/controller/RabbitmqController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="30" column="34" lean-forward="false" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/config/RabbitMQConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2225">
+          <caret line="105" column="0" lean-forward="false" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/service/DelayMessageSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/service/RabbitmqService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq-consumer-test/src/main/java/com/example/rabbitmqconsumer/service/DeadLetterQueueConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="27" column="52" lean-forward="false" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/service/RabbitmqServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/session/RedisSessionDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1175">
+          <caret line="59" column="13" lean-forward="false" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/PdfUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-467">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiroweb2/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="142" column="17" lean-forward="false" selection-start-line="142" selection-start-column="17" selection-end-line="142" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.2.6.RELEASE/spring-context-support-4.2.6.RELEASE.jar!/org/springframework/scheduling/quartz/QuartzJobBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.2.6.RELEASE/spring-context-support-4.2.6.RELEASE.jar!/org/springframework/scheduling/quartz/CronTriggerFactoryBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="74" column="33" lean-forward="false" selection-start-line="74" selection-start-column="19" selection-end-line="74" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.2.6.RELEASE/spring-context-support-4.2.6.RELEASE.jar!/org/springframework/scheduling/quartz/MethodInvokingJobDetailFactoryBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="129" column="68" lean-forward="false" selection-start-line="129" selection-start-column="62" selection-end-line="129" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.9.RELEASE/spring-core-5.1.9.RELEASE.jar!/org/springframework/util/MethodInvoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding>
+            <element signature="e#1232#1233#0" expanded="true" />
+            <element signature="e#1280#1281#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="71" lean-forward="false" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.0/jedis-2.8.0.jar!/redis/clients/jedis/JedisPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring-redis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="42" lean-forward="true" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/cache/RedisCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/cache/RedisCacheManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/shiro/realm/CustomRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="49" column="42" lean-forward="false" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/session/CustomSessionManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="29" column="47" lean-forward="false" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/offsetsDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="25" />
+          <folding>
+            <element signature="e#83#84#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring-mvc-quartz1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/AutoJobActDis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/JedisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/RedisDistributedLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>shiroweb2:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27941176" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27941176" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>rabbitmq-consumer-test</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27941176" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.auth0:java-jwt:3.1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27941176" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -69,6 +69,7 @@ public class RabbitmqServiceImpl implements RabbitmqService, RabbitTemplate.Conf
 
             // 一般是要根据业务 要全局唯一的 以后做deliveryTag 根据这个id 找到唯一一条消息
             CorrelationData correlationData = new CorrelationData((UUID.randomUUID().toString()));
+            //QUEUE_NAME是一个简单的route-key
             rabbitTemplate.convertAndSend(QUEUE_NAME, spittle,correlationData);
             LOGGER.info("消息发送成功: {}", spittle);
 

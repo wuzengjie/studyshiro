@@ -94,6 +94,7 @@ public class CustomRealm extends AuthorizingRealm{
     public static void main(String[] args){
         //使用md5进行加密，还需要进行加盐，而使用盐进行加密一般是使用随机数
         Md5Hash md5Hash=new Md5Hash("123456","Mark");
+
         System.out.println(md5Hash);
     }
 }

@@ -15,6 +15,10 @@ import java.util.Set;
 /**
  * 集成redis自带的sessionDao,对里面的方法进行重写
  */
+
+/**
+ * MemorySessionDAO继承AbstractSessionDAO继承SessionDAO();
+ */
 public class RedisSessionDao extends AbstractSessionDAO{
 
     @Resource
@@ -38,6 +42,7 @@ public class RedisSessionDao extends AbstractSessionDAO{
 
             //设置redis的值与过期时间
             jedisUtil.set(key, value);
+
             jedisUtil.expire(key, 600);
         }
     }
@@ -45,7 +50,7 @@ public class RedisSessionDao extends AbstractSessionDAO{
     @Override
     protected Serializable doCreate(Session session) {
         Serializable sessionId=generateSessionId(session);
-        System.out.println("sessionId:"+sessionId);
+        System.out.println("创建sessionId:"+sessionId);
         //将session与sessionId进行捆绑
         assignSessionId(session,sessionId);
         saveSession(session);
@@ -67,12 +72,14 @@ public class RedisSessionDao extends AbstractSessionDAO{
 
     @Override
     public void update(Session session) throws UnknownSessionException {
+        System.out.println("更新session");
         saveSession(session);
     }
 
     @Override
     public void delete(Session session) {
         if(session!=null&&session.getId()!=null){
+            System.out.println("删除session");
             byte[] key=getKey(session.getId().toString());
             jedisUtil.del(key);
         }

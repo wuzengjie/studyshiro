@@ -50,6 +50,26 @@
           <element id="library" level="project" name="Maven: com.mchange:mchange-commons-java:0.2.11" />
           <element id="library" level="project" name="Maven: com.zaxxer:HikariCP-java6:2.3.13" />
           <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.7" />
+          <element id="library" level="project" name="Maven: org.redisson:redisson:3.8.2" />
+          <element id="library" level="project" name="Maven: io.netty:netty-common:4.1.30.Final" />
+          <element id="library" level="project" name="Maven: io.netty:netty-codec:4.1.30.Final" />
+          <element id="library" level="project" name="Maven: io.netty:netty-buffer:4.1.30.Final" />
+          <element id="library" level="project" name="Maven: io.netty:netty-transport:4.1.30.Final" />
+          <element id="library" level="project" name="Maven: io.netty:netty-resolver:4.1.30.Final" />
+          <element id="library" level="project" name="Maven: io.netty:netty-resolver-dns:4.1.30.Final" />
+          <element id="library" level="project" name="Maven: io.netty:netty-codec-dns:4.1.30.Final" />
+          <element id="library" level="project" name="Maven: io.netty:netty-handler:4.1.30.Final" />
+          <element id="library" level="project" name="Maven: javax.cache:cache-api:1.0.0" />
+          <element id="library" level="project" name="Maven: io.projectreactor:reactor-core:3.2.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.reactivestreams:reactive-streams:1.0.2" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.9.6" />
+          <element id="library" level="project" name="Maven: org.yaml:snakeyaml:1.18" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.9.6" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.9.6" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.0" />
+          <element id="library" level="project" name="Maven: net.bytebuddy:byte-buddy:1.8.17" />
+          <element id="library" level="project" name="Maven: org.jodd:jodd-bean:3.7.1" />
+          <element id="library" level="project" name="Maven: org.jodd:jodd-core:3.7.1" />
         </element>
       </element>
       <element id="directory" name="META-INF">

@@ -72,7 +72,7 @@ public class CustomRealm extends AuthorizingRealm{
         }
         //创建一个返回对象
         SimpleAuthenticationInfo authenticationInfo=new SimpleAuthenticationInfo
-                (userName,passWord,"customRealm");
+                (userName,passWord,"customRealm");//authenticationToken中的密码会与从数据库中查询的密码比较
 
         //在返回对象之间将盐添加进去,盐可以是随机数，也可以是username
         authenticationInfo.setCredentialsSalt(ByteSource.Util.bytes(userName));

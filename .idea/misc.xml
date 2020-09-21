@@ -3,6 +3,9 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/shiro_web" />
     <file type="web" url="file://$PROJECT_DIR$/shiroweb2" />
+    <file type="web" url="file://$PROJECT_DIR$/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-jfinal" />
+    <file type="web" url="file://$PROJECT_DIR$/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-nutz" />
+    <file type="web" url="file://$PROJECT_DIR$/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-spring" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -10,7 +13,17 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/rabbitmq-producer-test/pom.xml" />
         <option value="$PROJECT_DIR$/rabbitmq-consumer-test/pom.xml" />
+        <option value="$PROJECT_DIR$/sso-server/pom.xml" />
+        <option value="$PROJECT_DIR$/sso-client2/pom.xml" />
+        <option value="$PROJECT_DIR$/springsecurityweb/pom.xml" />
+        <option value="$PROJECT_DIR$/redis-lock/pom.xml" />
+        <option value="$PROJECT_DIR$/xxl-job/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/ssoserver/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">

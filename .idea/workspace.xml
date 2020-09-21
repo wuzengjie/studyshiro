@@ -7,87 +7,307 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4ebdbf5-7bd4-4f57-b88f-2ffc25ca23d3" name="Default" comment="修改数据">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-consumer-test/.mvn/wrapper/maven-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/.mvn/wrapper/maven-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_itextpdf_itext_asian_5_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_itextpdf_itextpdf_5_5_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_java6_2_3_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_coobird_thumbnailator_0_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_json_lib_json_lib_jdk15_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_pdfbox_fontbox_2_0_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_pdfbox_pdfbox_2_0_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_quartz_scheduler_quartz_2_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_29.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_log4j_1_3_8_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_2_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-consumer-test/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-consumer-test/.mvn/wrapper/MavenWrapperDownloader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-consumer-test/.mvn/wrapper/maven-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-consumer-test/mvnw" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-consumer-test/mvnw.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-consumer-test/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-consumer-test/src/main/java/com/example/rabbitmqconsumer/RabbitmqConsumerApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-consumer-test/src/main/java/com/example/rabbitmqconsumer/model/Spittle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-consumer-test/src/main/java/com/example/rabbitmqconsumer/service/DeadLetterQueueConsumer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-consumer-test/src/main/java/com/example/rabbitmqconsumer/service/MessageHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-consumer-test/src/main/java/com/example/rabbitmqconsumer/util/JsonConvertUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-consumer-test/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-consumer-test/src/test/java/com/example/rabbitmqconsumer/RabbitmqConsumerApplicationTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/.mvn/wrapper/MavenWrapperDownloader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/.mvn/wrapper/maven-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/mvnw" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/mvnw.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/RabbitmqProducerApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/config/AmqpConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/config/RabbitMQConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/controller/RabbitmqController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/model/DelayTypeEnum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/model/Spittle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/service/DelayMessageSender.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/service/RabbitmqService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/service/RabbitmqServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/util/FastJsonConvertUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rabbitmq-producer-test/src/test/java/com/example/demo/RabbitmqProducerApplicationTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/AutoJobActDis.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/PdfUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/RedisDistributedLock.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/offsetsDetail.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring-mvc-quartz1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis-lock/.mvn/wrapper/maven-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springsecurityweb/.mvn/wrapper/maven-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-client1/.mvn/wrapper/maven-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-client2/.mvn/wrapper/maven-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/xxl_job_executor_sample_jfinal_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/xxl_job_executor_sample_jfinal_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/xxl_job_executor_sample_nutz_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/xxl_job_executor_sample_nutz_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/xxl_job_executor_sample_spring_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/xxl_job_executor_sample_spring_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_3_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_5_0_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_6_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_57.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_9_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_2_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_27_1_jre.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_icu_icu4j_58_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jfinal_cos_2017_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jfinal_jfinal_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jfinal_jfinal_3_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jfinal_jfinal_undertow_1_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jfinal_jfinal_weixin_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_papertrail_profiler_1_0_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_jakarta_mail_1_6_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_config_1_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__de_ruedigermoeller_fst_2_57.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_core_4_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_healthchecks_4_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_json_4_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_jvm_4_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_dropwizard_metrics_metrics_servlets_4_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_jboot_jboot_2_0_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_5_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_6_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_43_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_49_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_50_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_seata_seata_common_0_5_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_seata_seata_config_core_0_5_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_shardingsphere_sharding_core_3_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_shardingsphere_sharding_jdbc_core_3_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_shardingsphere_sharding_transaction_core_3_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_core_1_5_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_21.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_undertow_undertow_core_2_0_19_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_undertow_undertow_servlet_2_0_19_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_undertow_undertow_websockets_jsr_2_0_19_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__it_sauronsoftware_cron4j_cron4j_2_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_20.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ehcache_ehcache_2_10_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_trove4j_core_3_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_abego_treelayout_org_abego_treelayout_core_1_0_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_ST4_4_0_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr4_4_7_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_7_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_5_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_client_4_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_4_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_35.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_35.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_yetus_audience_annotations_0_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_5_4_beta.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_16_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_5_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_5_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_5_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_3_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_indy_2_4_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_30.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_javax_json_1_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_netty_netty_3_2_5_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_websocket_jboss_websocket_api_1_1_spec_1_1_3_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_xnio_xnio_api_3_3_8_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_xnio_xnio_nio_3_3_8_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20160212.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_11_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_6_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_logback_extensions_logback_ext_spring_0_1_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_3_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_3_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_nutz_nutz_1_r_62.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_5_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_30.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_3_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_3_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_3_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_3_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_2_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_3_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_3_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_3_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_3_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_mail_2_3_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_3_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_3_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_2_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_3_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_3_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_3_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_2_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_2_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_2_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_7_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_16.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_26.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_10_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis-lock/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis-lock/.mvn/wrapper/MavenWrapperDownloader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis-lock/.mvn/wrapper/maven-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis-lock/mvnw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis-lock/mvnw.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis-lock/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis-lock/src/main/java/com/example/redis/RedisLockApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis-lock/src/main/java/com/example/redis/configure/XxlJobConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis-lock/src/main/java/com/example/redis/controller/DemoJobHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis-lock/src/main/java/com/example/redis/controller/RedisLockController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis-lock/src/main/java/com/example/redis/util/RedisUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis-lock/src/main/resources/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis-lock/src/main/resources/application.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis-lock/src/test/java/com/example/redis/RedisLockApplicationTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springsecurityweb/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springsecurityweb/.mvn/wrapper/MavenWrapperDownloader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springsecurityweb/.mvn/wrapper/maven-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springsecurityweb/mvnw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springsecurityweb/mvnw.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springsecurityweb/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springsecurityweb/src/main/java/com/example/ssoserver/SpringSecurityWebApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springsecurityweb/src/main/java/com/example/ssoserver/configurer/CustomAuthenticationProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springsecurityweb/src/main/java/com/example/ssoserver/configurer/JWTAuthenticationFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springsecurityweb/src/main/java/com/example/ssoserver/configurer/JWTLoginFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springsecurityweb/src/main/java/com/example/ssoserver/configurer/WebSecurityConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springsecurityweb/src/main/java/com/example/ssoserver/controller/UserController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springsecurityweb/src/main/java/com/example/ssoserver/entiy/AccountCredentials.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springsecurityweb/src/main/java/com/example/ssoserver/entiy/GrantedAuthorityImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springsecurityweb/src/main/java/com/example/ssoserver/util/JSONResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springsecurityweb/src/main/java/com/example/ssoserver/util/TokenAuthenticationService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springsecurityweb/src/main/resources/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springsecurityweb/src/main/resources/templates/main.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springsecurityweb/src/test/java/com/example/ssoserver/SsoServerApplicationTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-client1/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-client1/.mvn/wrapper/MavenWrapperDownloader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-client1/.mvn/wrapper/maven-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-client1/mvnw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-client1/mvnw.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-client1/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-client1/src/main/java/com/example/ssoserver/SsoClient1Application.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-client1/src/main/java/com/example/ssoserver/configurer/LoginInterceptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-client1/src/main/java/com/example/ssoserver/configurer/WebConfigurer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-client1/src/main/java/com/example/ssoserver/controller/IndexController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-client1/src/main/java/com/example/ssoserver/entiy/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-client1/src/main/resources/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-client1/src/main/resources/templates/main.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-client1/src/test/java/com/example/ssoserver/SsoServerApplicationTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-client2/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-client2/.mvn/wrapper/MavenWrapperDownloader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-client2/.mvn/wrapper/maven-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-client2/mvnw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-client2/mvnw.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-client2/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-client2/src/main/java/com/example/ssoserver/SsoClient2Application.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-client2/src/main/java/com/example/ssoserver/configurer/LoginInterceptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-client2/src/main/java/com/example/ssoserver/configurer/WebConfigurer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-client2/src/main/java/com/example/ssoserver/controller/IndexController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-client2/src/main/java/com/example/ssoserver/entiy/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-client2/src/main/resources/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-client2/src/main/resources/templates/main.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-client2/src/test/java/com/example/ssoserver/SsoServerApplicationTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-server/src/main/java/com/example/ssoserver/controller/LoginController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-server/src/main/java/com/example/ssoserver/entiy/UserDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-server/src/main/java/com/example/ssoserver/entiy/UserVo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-server/src/main/java/com/example/ssoserver/util/JwtUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sso-server/src/main/resources/templates/login.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiroweb2/target/classes/com/study/cache/RedisCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiroweb2/target/classes/com/study/cache/RedisCacheManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiroweb2/target/classes/com/study/controller/UserController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiroweb2/target/classes/com/study/dao/UserDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiroweb2/target/classes/com/study/dao/impl/UserDaoImpl$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiroweb2/target/classes/com/study/dao/impl/UserDaoImpl$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiroweb2/target/classes/com/study/dao/impl/UserDaoImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiroweb2/target/classes/com/study/session/CustomSessionManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiroweb2/target/classes/com/study/session/RedisSessionDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiroweb2/target/classes/com/study/shiro/realm/CustomRealm.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiroweb2/target/classes/com/study/util/AutoJobActDis.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiroweb2/target/classes/com/study/util/JedisUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiroweb2/target/classes/com/study/util/PdfUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiroweb2/target/classes/com/study/util/offsetsDetail.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shiroweb2/target/classes/com/study/vo/User.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiroweb2/target/shiro-web2-1.0-SNAPSHOT/WEB-INF/classes/com/study/controller/UserController.class" afterPath="$PROJECT_DIR$/shiroweb2/target/shiro-web2-1.0-SNAPSHOT/WEB-INF/classes/com/study/controller/UserController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiroweb2/target/shiro-web2-1.0-SNAPSHOT/WEB-INF/classes/com/study/util/AutoJobActDis.class" afterPath="$PROJECT_DIR$/shiroweb2/target/shiro-web2-1.0-SNAPSHOT/WEB-INF/classes/com/study/util/AutoJobActDis.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/shiroweb2_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/shiroweb2_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/9fcc6f08-ea18-4452-89a5-1ed955387581.xml" afterPath="$PROJECT_DIR$/.idea/dataSources/9fcc6f08-ea18-4452-89a5-1ed955387581.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rabbitmq-consumer/src/main/java/com/example/rabbitmqconsumer/RabbitmqConsumerApplication.java" afterPath="$PROJECT_DIR$/rabbitmq-consumer/src/main/java/com/example/rabbitmqconsumer/RabbitmqConsumerApplication.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rabbitmq-consumer/src/main/java/com/example/rabbitmqconsumer/service/MessageHandler.java" afterPath="$PROJECT_DIR$/rabbitmq-consumer/src/main/java/com/example/rabbitmqconsumer/service/MessageHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rabbitmq-consumer/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/rabbitmq-consumer/src/main/resources/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rabbitmq-producer/src/main/java/com/example/demo/config/AmqpConfig.java" afterPath="$PROJECT_DIR$/rabbitmq-producer/src/main/java/com/example/demo/config/AmqpConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rabbitmq-producer/src/main/java/com/example/demo/service/RabbitmqServiceImpl.java" afterPath="$PROJECT_DIR$/rabbitmq-producer/src/main/java/com/example/demo/service/RabbitmqServiceImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rabbitmq-producer/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/rabbitmq-producer/src/main/resources/application.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiroweb2/pom.xml" afterPath="$PROJECT_DIR$/shiroweb2/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiroweb2/shiroweb2.iml" afterPath="$PROJECT_DIR$/shiroweb2/shiroweb2.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/cache/RedisCache.java" afterPath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/cache/RedisCache.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/controller/UserController.java" afterPath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/controller/UserController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/session/CustomSessionManager.java" afterPath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/session/CustomSessionManager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/session/RedisSessionDao.java" afterPath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/session/RedisSessionDao.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/shiro/realm/CustomRealm.java" afterPath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/shiro/realm/CustomRealm.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/JedisUtil.java" afterPath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/JedisUtil.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring-redis.xml" afterPath="$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring-redis.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring.xml" afterPath="$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/RedisDistributedLock.java" afterPath="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/RedisDistributedLock.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring-dao.xml" afterPath="$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring-dao.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiroweb2/target/classes/spring/spring-dao.xml" afterPath="$PROJECT_DIR$/shiroweb2/target/classes/spring/spring-dao.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shiroweb2/target/shiro-web2-1.0-SNAPSHOT/WEB-INF/classes/spring/spring-dao.xml" afterPath="$PROJECT_DIR$/shiroweb2/target/shiro-web2-1.0-SNAPSHOT/WEB-INF/classes/spring/spring-dao.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -100,6 +320,22 @@
     <ignored path="$PROJECT_DIR$/rabbitmq-producer/target/" />
     <ignored path="$PROJECT_DIR$/rabbitmq-producer-test/target/" />
     <ignored path="$PROJECT_DIR$/rabbitmq-consumer-test/target/" />
+    <ignored path="$PROJECT_DIR$/ssoserver/target/" />
+    <ignored path="$PROJECT_DIR$/sso-server/target/" />
+    <ignored path="$PROJECT_DIR$/sso-client1/target/" />
+    <ignored path="$PROJECT_DIR$/sso-client2/target/" />
+    <ignored path="$PROJECT_DIR$/springsecurityweb/target/" />
+    <ignored path="$PROJECT_DIR$/redis-lock/target/" />
+    <ignored path="$PROJECT_DIR$/xxl-job/xxl-job-core/target/" />
+    <ignored path="$PROJECT_DIR$/xxl-job/target/" />
+    <ignored path="$PROJECT_DIR$/xxl-job/xxl-job-admin/target/" />
+    <ignored path="$PROJECT_DIR$/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-springboot/target/" />
+    <ignored path="$PROJECT_DIR$/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-spring/target/" />
+    <ignored path="$PROJECT_DIR$/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-frameless/target/" />
+    <ignored path="$PROJECT_DIR$/xxl-job/xxl-job-executor-samples/target/" />
+    <ignored path="$PROJECT_DIR$/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-jboot/target/" />
+    <ignored path="$PROJECT_DIR$/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-nutz/target/" />
+    <ignored path="$PROJECT_DIR$/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-jfinal/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -142,21 +378,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="JedisUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/JedisUtil.java">
+      <file leaf-file-name="applicationcontext-xxl-job.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-spring/src/main/resources/applicationcontext-xxl-job.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="20" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="121">
+              <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AutoJobActDis.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/AutoJobActDis.java">
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redis-lock/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            <state relative-caret-position="100">
+              <caret line="4" column="48" lean-forward="false" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xxl-job/xxl-job-admin/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-325">
+              <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedisLockApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redis-lock/src/main/java/com/example/redis/RedisLockApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DemoJobHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redis-lock/src/main/java/com/example/redis/controller/DemoJobHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -164,87 +430,63 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RedisDistributedLock.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/RedisDistributedLock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xxl-job/xxl-job-admin/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+            <state />
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spring-mvc-quartz1.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring-mvc-quartz1.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+              <caret line="72" column="37" lean-forward="false" selection-start-line="72" selection-start-column="31" selection-end-line="72" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="offsetsDetail.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/offsetsDetail.java">
+      <file leaf-file-name="xxl-job-admin.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xxl-job/xxl-job-admin/xxl-job-admin.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="25" />
+            <state relative-caret-position="-1200">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xxl-job/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2893">
+              <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redis-lock/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="385">
+              <caret line="60" column="45" lean-forward="true" selection-start-line="60" selection-start-column="45" selection-end-line="60" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XxlJobConfig.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/redis-lock/src/main/java/com/example/redis/configure/XxlJobConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding>
-                <element signature="e#83#84#0" expanded="true" />
-                <element signature="e#132#133#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RedisCacheManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/cache/RedisCacheManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CustomRealm.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/shiro/realm/CustomRealm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spring.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="49" column="42" lean-forward="false" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CustomSessionManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/session/CustomSessionManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/controller/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="29" column="47" lean-forward="false" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="47" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -255,22 +497,15 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="spring" />
-        <option value="HTML File" />
         <option value="Enum" />
         <option value="spring-beans.schema" />
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>getPermissionsByUserName</find>
-      <find>jedisPool</find>
-      <find>cache</find>
-      <find>cacheManager</find>
-      <find>mysql</find>
-      <find>convertAndSend</find>
-      <find>comm</find>
       <find>Message</find>
       <find>DEAD_LETTER_QUEUEB_NAME</find>
       <find>Queue</find>
@@ -294,6 +529,13 @@
       <find>lpushRedisFlag</find>
       <find>CustomRealm</find>
       <find>RedisDistributedLock</find>
+      <find>value</find>
+      <find>jedis</find>
+      <find>redis</find>
+      <find>redisTemplate</find>
+      <find>getToken</find>
+      <find>doGetAuthenticationInfo</find>
+      <find>setIfAbsent</find>
     </findStrings>
     <dirStrings>
       <dir>E:\idea\studyshiro\shiroweb</dir>
@@ -311,57 +553,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/shiroweb2/src/main/webapp/403.html" />
-        <option value="$PROJECT_DIR$/shiroweb2/src/main/webapp/500.html" />
-        <option value="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.9.RELEASE/spring-core-5.1.9.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class" />
-        <option value="$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.9.RELEASE/spring-aop-5.1.9.RELEASE.jar!/org/springframework/aop/framework/CglibAopProxy.class" />
-        <option value="$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.9.RELEASE/spring-aop-5.1.9.RELEASE.jar!/org/springframework/aop/target/SingletonTargetSource.class" />
-        <option value="$PROJECT_DIR$/shiroweb2/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring-mvc.xml" />
-        <option value="$PROJECT_DIR$/shiroweb2/src/main/webapp/WEB-INF/success.html" />
-        <option value="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/cache/RedisCacheManager.java" />
-        <option value="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/cache/RedisCache.java" />
-        <option value="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/PdfUtils.java" />
-        <option value="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/session/CustomSessionManager.java" />
-        <option value="$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring-redis.xml" />
-        <option value="$PROJECT_DIR$/rabbitmq-consumer/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/rabbitmq-consumer/src/main/java/com/example/rabbitmqconsumer/RabbitmqConsumerApplication.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-producer/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/rabbitmq-producer/src/main/java/com/example/demo/service/RabbitmqServiceImpl.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/config/AmqpConfig.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/RabbitmqProducerApplication.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-consumer-test/src/main/java/com/example/rabbitmqconsumer/util/JsonConvertUtils.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/util/FastJsonConvertUtil.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-consumer/src/main/java/com/example/rabbitmqconsumer/service/MessageHandler.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-consumer-test/src/main/java/com/example/rabbitmqconsumer/model/Spittle.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/model/Spittle.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/service/RabbitmqService.java" />
-        <option value="$MAVEN_REPOSITORY$/org/springframework/retry/spring-retry/1.2.4.RELEASE/spring-retry-1.2.4.RELEASE.jar!/org/springframework/retry/support/RetryTemplate.class" />
-        <option value="$MAVEN_REPOSITORY$/org/springframework/retry/spring-retry/1.2.4.RELEASE/spring-retry-1.2.4.RELEASE.jar!/org/springframework/retry/backoff/FixedBackOffPolicy.class" />
-        <option value="$PROJECT_DIR$/rabbitmq-producer-test/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/rabbitmq-consumer-test/src/main/java/com/example/rabbitmqconsumer/config/AmqpConfig.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-consumer-test/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/rabbitmq-consumer-test/src/main/java/com/example/rabbitmqconsumer/service/MessageHandler.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-producer-test/pom.xml" />
-        <option value="$PROJECT_DIR$/rabbitmq-consumer-test/pom.xml" />
-        <option value="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/model/DelayTypeEnum.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/config/RabbitMQConfig.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-consumer-test/src/main/java/com/example/rabbitmqconsumer/service/DeadLetterQueueConsumer.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/service/RabbitmqServiceImpl.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/service/DelayMessageSender.java" />
-        <option value="$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/controller/RabbitmqController.java" />
+        <option value="$PROJECT_DIR$/sso-server/src/main/java/com/example/ssoserver/entiy/UserVo.java" />
+        <option value="$PROJECT_DIR$/sso-client2/src/main/resources/templates/main.html" />
+        <option value="$PROJECT_DIR$/sso-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/sso-client2/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/sso-server/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/sso-server/src/main/resources/templates/login.html" />
+        <option value="$PROJECT_DIR$/sso-client2/src/main/java/com/example/ssoserver/configurer/WebConfigurer.java" />
+        <option value="$PROJECT_DIR$/sso-client2/src/main/java/com/example/ssoserver/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/sso-client1/src/main/java/com/example/ssoserver/entiy/User.java" />
+        <option value="$PROJECT_DIR$/sso-client1/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/sso-client1/src/main/java/com/example/ssoserver/SsoClient1Application.java" />
+        <option value="$PROJECT_DIR$/sso-client1/pom.xml" />
+        <option value="$PROJECT_DIR$/sso-client1/src/main/resources/templates/main.html" />
+        <option value="$PROJECT_DIR$/sso-server/src/main/java/com/example/ssoserver/configure/WebMvcConfig.java" />
+        <option value="$PROJECT_DIR$/sso-server/src/main/java/com/example/ssoserver/SsoServerApplication.java" />
+        <option value="$PROJECT_DIR$/sso-client1/src/main/java/com/example/ssoserver/configurer/LoginInterceptor.java" />
+        <option value="$PROJECT_DIR$/sso-client2/src/main/java/com/example/ssoserver/configurer/LoginInterceptor.java" />
+        <option value="$PROJECT_DIR$/sso-server/src/main/java/com/example/ssoserver/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/springsecurityweb/src/main/java/com/example/ssoserver/SpringsecuritywebApplication.java" />
+        <option value="$PROJECT_DIR$/springsecurityweb/src/main/java/com/example/ssoserver/SpringSecurityWebApplication.java" />
+        <option value="$PROJECT_DIR$/springsecurityweb/src/main/java/com/example/ssoserver/util/JSONResult.java" />
+        <option value="$PROJECT_DIR$/springsecurityweb/pom.xml" />
+        <option value="$PROJECT_DIR$/springsecurityweb/src/main/java/com/example/ssoserver/entiy/AccountCredentials.java" />
+        <option value="$PROJECT_DIR$/springsecurityweb/src/main/java/com/example/ssoserver/entiy/GrantedAuthorityImpl.java" />
+        <option value="$PROJECT_DIR$/springsecurityweb/src/main/java/com/example/ssoserver/configurer/CustomAuthenticationProvider.java" />
+        <option value="$PROJECT_DIR$/springsecurityweb/src/main/java/com/example/ssoserver/configurer/JWTAuthenticationFilter.java" />
+        <option value="$PROJECT_DIR$/springsecurityweb/src/main/java/com/example/ssoserver/util/TokenAuthenticationService.java" />
+        <option value="$PROJECT_DIR$/springsecurityweb/src/main/java/com/example/ssoserver/configurer/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/springsecurityweb/src/main/java/com/example/ssoserver/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/springsecurityweb/src/main/java/com/example/ssoserver/configurer/JWTLoginFilter.java" />
         <option value="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/shiro/realm/CustomRealm.java" />
-        <option value="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/session/RedisSessionDao.java" />
-        <option value="$PROJECT_DIR$/shiroweb2/pom.xml" />
-        <option value="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.9.RELEASE/spring-core-5.1.9.RELEASE.jar!/org/springframework/util/MethodInvoker.class" />
-        <option value="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/Job1.java" />
-        <option value="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/JedisUtil.java" />
-        <option value="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/offsetsDetail.java" />
-        <option value="$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring.xml" />
-        <option value="$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring-mvc-quartz1.xml" />
-        <option value="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/AutoJobActDis.java" />
-        <option value="$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/RedisDistributedLock.java" />
+        <option value="$PROJECT_DIR$/redis-lock/src/main/java/com/example/ssoserver/util/JwtUtil.java" />
+        <option value="$PROJECT_DIR$/redis-lock/src/main/java/com/example/ssoserver/SsoServerApplication.java" />
+        <option value="$PROJECT_DIR$/redis-lock/src/main/java/com/example/ssoserver/controller/RedisLockController.java" />
+        <option value="$PROJECT_DIR$/redis-lock/src/test/java/com/example/ssoserver/SsoServerApplicationTests.java" />
+        <option value="$PROJECT_DIR$/redis-lock/src/test/java/com/example/ssoserver/RedisLockApplicationTests.java" />
+        <option value="$PROJECT_DIR$/redis-lock/src/main/java/com/example/redis/util/RedisUtil.java" />
+        <option value="$PROJECT_DIR$/redis-lock/src/test/java/com/example/redis/RedisLockApplicationTests.java" />
+        <option value="$PROJECT_DIR$/redis-lock/src/main/java/com/example/redis/controller/annotation/PermissionLimit.java" />
+        <option value="$PROJECT_DIR$/redis-lock/src/main/java/com/example/redis/service/impl/AdminBizImpl.java" />
+        <option value="$PROJECT_DIR$/redis-lock/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/xxl-job/xxl-job-admin/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/xxl-job/xxl-job-core/src/main/java/com/xxl/job/core/util/GsonTool.java" />
+        <option value="$PROJECT_DIR$/xxl-job/xxl-job-core/src/main/java/com/xxl/job/core/util/XxlJobRemotingUtil.java" />
+        <option value="$PROJECT_DIR$/redis-lock/src/main/java/com/example/redis/controller/RedisLockController.java" />
+        <option value="$PROJECT_DIR$/redis-lock/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/redis-lock/pom.xml" />
+        <option value="$PROJECT_DIR$/redis-lock/src/main/java/com/example/redis/controller/DemoJobHandler.java" />
+        <option value="$PROJECT_DIR$/redis-lock/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/redis-lock/src/main/java/com/example/redis/configure/XxlJobConfig.java" />
       </list>
     </option>
   </component>
@@ -390,29 +632,21 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="rabbitmq-consumer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="redis-lock" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="rabbitmq-producer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="rabbitmq-producer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="shiro-web2" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="shiro-web2" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="redis-lock" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="study-shiro" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="xxl-job-admin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="xxl-job-admin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
       <select />
@@ -421,11 +655,84 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1378" />
     <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Encapsulation issuesJava</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>SetupSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>Spring BatchSpring</id>
+          </State>
+          <State>
+            <id>Spring BootSpring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring DataSpring</id>
+          </State>
+          <State>
+            <id>Spring IntegrationSpring</id>
+          </State>
+          <State>
+            <id>Spring MVCSpring</id>
+          </State>
+          <State>
+            <id>Spring OSGiSpring</id>
+          </State>
+          <State>
+            <id>Spring SecuritySpring</id>
+          </State>
+          <State>
+            <id>Spring Web FlowSpring</id>
+          </State>
+          <State>
+            <id>Spring Web ServicesSpring</id>
+          </State>
+          <State>
+            <id>Spring WebSocketSpring</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringJavaAutowiringInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -443,7 +750,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -455,70 +762,25 @@
             <path>
               <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
               <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq-consumer-test" type="462c0819:PsiDirectoryNode" />
+              <item name="redis-lock" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
               <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq-consumer-test" type="462c0819:PsiDirectoryNode" />
+              <item name="redis-lock" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
               <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq-consumer-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq-consumer-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq-consumer-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmqconsumer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq-consumer-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmqconsumer" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq-producer-test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq-producer-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq-producer-test" type="462c0819:PsiDirectoryNode" />
+              <item name="redis-lock" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
               <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq-producer-test" type="462c0819:PsiDirectoryNode" />
+              <item name="redis-lock" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -526,141 +788,36 @@
             <path>
               <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
               <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq-producer-test" type="462c0819:PsiDirectoryNode" />
+              <item name="redis-lock" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="redis" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
               <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq-producer-test" type="462c0819:PsiDirectoryNode" />
+              <item name="redis-lock" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="redis" type="462c0819:PsiDirectoryNode" />
+              <item name="configure" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
               <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq-producer-test" type="462c0819:PsiDirectoryNode" />
+              <item name="redis-lock" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="redis" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
               <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq-producer-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
-              <item name="rabbitmq-producer-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
-              <item name="shiroweb2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
-              <item name="shiroweb2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
-              <item name="shiroweb2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
-              <item name="shiroweb2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
-              <item name="shiroweb2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
-              <item name="shiroweb2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="cache" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
-              <item name="shiroweb2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
-              <item name="shiroweb2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="session" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
-              <item name="shiroweb2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="realm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
-              <item name="shiroweb2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
-              <item name="shiroweb2" type="462c0819:PsiDirectoryNode" />
+              <item name="redis-lock" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -668,39 +825,67 @@
             <path>
               <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
               <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
-              <item name="shiroweb2" type="462c0819:PsiDirectoryNode" />
+              <item name="xxl-job" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="xxl-job" type="462c0819:PsiDirectoryNode" />
+              <item name="xxl-job-admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="xxl-job" type="462c0819:PsiDirectoryNode" />
+              <item name="xxl-job-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="xxl-job" type="462c0819:PsiDirectoryNode" />
+              <item name="xxl-job-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="xxl-job" type="462c0819:PsiDirectoryNode" />
+              <item name="xxl-job-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="xxl-job" type="462c0819:PsiDirectoryNode" />
+              <item name="xxl-job-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
+              <item name="xxl-job" type="462c0819:PsiDirectoryNode" />
+              <item name="xxl-job-admin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
-              <item name="shiroweb2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="studyshiro" type="b2602c69:ProjectViewProjectNode" />
-              <item name="studyshiro" type="462c0819:PsiDirectoryNode" />
-              <item name="shiroweb2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="settings.editor.splitter.proportion" value="0.23510972" />
     <property name="nodejs_interpreter_path" value="D:/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -709,7 +894,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.27941176" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/xxl-job" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
@@ -721,27 +906,28 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="RequestMappingsPanelOrder2" value="2" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\idea\studyshiro\rabbitmq-producer\src\main\java\com\example\demo\config" />
-      <recent name="E:\idea\studyshiro\rabbitmq-producer\src\main\java\com\example\demo\controller" />
-      <recent name="E:\idea\studyshiro\rabbitmq-consumer-test\src\main\java\com\example\rabbitmqconsumer\config" />
-      <recent name="E:\idea\studyshiro\shiroweb2\src\main\webapp\WEB-INF" />
-      <recent name="E:\idea\studyshiro\shiroweb2\src\main\webapp" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.example.demo.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea\studyshiro\redis-lock\src\main\resources" />
+      <recent name="E:\idea\studyshiro\redis-lock\src\main\java\com\example\redis" />
+      <recent name="E:\idea\studyshiro\redis-lock\src\main\java\com\example\redis\controller" />
+      <recent name="E:\idea\studyshiro" />
+      <recent name="E:\idea\studyshiro\sso-server\src\main\java\com\example\ssoserver\util" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.study.shiro.realm" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\idea\studyshiro" />
-      <recent name="E:\idea\studyshiro\rabbitmq-producer-test\src\main\java\com\example\demo\util" />
-      <recent name="E:\idea\studyshiro\shiroweb2\src\main\webapp" />
-      <recent name="E:\idea\studyshiro\rabbitmq-consumer\src\main\java\com\example\rabbitmqconsumer\util" />
-      <recent name="E:\idea\studyshiro\rabbitmq-producer\src\main\java\com\example\demo" />
+      <recent name="E:\idea\studyshiro\rabbitmq-producer" />
+      <recent name="E:\idea\studyshiro\rabbitmq-producer\src\main\java\com\example\demo\config" />
+      <recent name="E:\idea\studyshiro\rabbitmq-producer\src\main\java\com\example\demo\controller" />
+      <recent name="E:\idea\studyshiro\rabbitmq-consumer-test\src\main\java\com\example\rabbitmqconsumer\config" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -756,15 +942,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.shiro-web">
-    <configuration name="CustomRealm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Spring Boot.RedisLockApplication">
+    <configuration name="JwtUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.study.shiro.realm.*" />
+          <option name="PATTERN" value="com.example.ssoserver.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.study.shiro.realm.CustomRealm" />
+      <option name="MAIN_CLASS_NAME" value="com.example.ssoserver.util.JwtUtil" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://E:/idea-workspace" />
@@ -773,56 +959,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="shiroweb2" />
-      <envs />
-    </configuration>
-    <configuration name="CustomReam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.study.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.study.test.CustomReam" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://E:/idea-workspace" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="shirotest" />
-      <envs />
-    </configuration>
-    <configuration name="PdfUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.study.util.JedisUtil" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.study.util.PdfUtils" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://E:/idea-workspace" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="shiroweb2" />
-      <envs />
-    </configuration>
-    <configuration name="RabbitmqConsumerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.example.rabbitmqconsumer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.rabbitmqconsumer.RabbitmqConsumerApplication" />
-      <module name="rabbitmq-consumer-test" />
+      <module name="sso-server" />
       <envs />
     </configuration>
     <configuration name="RabbitmqConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -851,6 +988,103 @@
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.RabbitmqProducerApplication" />
       <module name="rabbitmq-producer" />
+      <envs />
+    </configuration>
+    <configuration name="RedisLockApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.redis.RedisLockApplication" />
+      <module name="redis-lock" />
+      <envs />
+    </configuration>
+    <configuration name="RedisLockApplicationTests.contextLoads (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.example.redis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="redis-lock" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.example.redis" />
+      <option name="MAIN_CLASS_NAME" value="com.example.redis.RedisLockApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="RedisLockApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.example.ssoserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="redis-lock" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.example.ssoserver" />
+      <option name="MAIN_CLASS_NAME" value="com.example.ssoserver.RedisLockApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="SpringSecurityWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.example.ssoserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.ssoserver.SpringSecurityWebApplication" />
+      <module name="springsecurityweb" />
+      <envs />
+    </configuration>
+    <configuration name="SsoClient1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.ssoserver.SsoClient1Application" />
+      <module name="sso-client1" />
+      <envs />
+    </configuration>
+    <configuration name="SsoClient2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.ssoserver.SsoClient2Application" />
+      <module name="sso-client2" />
+      <envs />
+    </configuration>
+    <configuration name="SsoServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.ssoserver.SsoServerApplication" />
+      <module name="sso-server" />
+      <envs />
+    </configuration>
+    <configuration name="XxlJobAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xxl.job.admin.XxlJobAdminApplication" />
+      <module name="xxl-job-admin" />
+      <envs />
+    </configuration>
+    <configuration name="XxlJobExecutorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xxl.job.executor.XxlJobExecutorApplication" />
+      <module name="xxl-job-executor-sample-springboot" />
       <envs />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -1083,28 +1317,37 @@
         </option>
       </method>
     </configuration>
-    <list size="8">
+    <list size="14">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.RabbitmqProducerApplication" />
       <item index="1" class="java.lang.String" itemvalue="Spring Boot.RabbitmqConsumerApplication" />
       <item index="2" class="java.lang.String" itemvalue="Tomcat Server.shiro-web" />
-      <item index="3" class="java.lang.String" itemvalue="Application.CustomReam" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CustomRealm" />
-      <item index="5" class="java.lang.String" itemvalue="Application.PdfUtils" />
-      <item index="6" class="java.lang.String" itemvalue="Spring Boot.RabbitmqProducerApplication (1)" />
-      <item index="7" class="java.lang.String" itemvalue="Spring Boot.RabbitmqConsumerApplication (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.SsoServerApplication" />
+      <item index="4" class="java.lang.String" itemvalue="Spring Boot.SsoClient1Application" />
+      <item index="5" class="java.lang.String" itemvalue="Spring Boot.SsoClient2Application" />
+      <item index="6" class="java.lang.String" itemvalue="Spring Boot.RedisLockApplication" />
+      <item index="7" class="java.lang.String" itemvalue="Spring Boot.XxlJobExecutorApplication" />
+      <item index="8" class="java.lang.String" itemvalue="Spring Boot.XxlJobAdminApplication" />
+      <item index="9" class="java.lang.String" itemvalue="Spring Boot.RabbitmqProducerApplication (1)" />
+      <item index="10" class="java.lang.String" itemvalue="Application.JwtUtil" />
+      <item index="11" class="java.lang.String" itemvalue="Spring Boot.SpringSecurityWebApplication" />
+      <item index="12" class="java.lang.String" itemvalue="JUnit.RedisLockApplicationTests.contextLoads" />
+      <item index="13" class="java.lang.String" itemvalue="JUnit.RedisLockApplicationTests.contextLoads (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Spring Boot.RabbitmqProducerApplication (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Spring Boot.RabbitmqConsumerApplication (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.PdfUtils" />
-        <item index="3" class="java.lang.String" itemvalue="Application.CustomRealm" />
-        <item index="4" class="java.lang.String" itemvalue="Application.CustomReam" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.RedisLockApplicationTests.contextLoads (1)" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.RedisLockApplicationTests.contextLoads" />
+        <item index="2" class="java.lang.String" itemvalue="Spring Boot.SpringSecurityWebApplication" />
+        <item index="3" class="java.lang.String" itemvalue="Application.JwtUtil" />
+        <item index="4" class="java.lang.String" itemvalue="Spring Boot.RabbitmqProducerApplication (1)" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -1147,44 +1390,53 @@
       <workItem from="1598188125697" duration="657000" />
       <workItem from="1598684255447" duration="1396000" />
       <workItem from="1598686490406" duration="3046000" />
-      <workItem from="1598690361264" duration="5771000" />
+      <workItem from="1598690361264" duration="16972000" />
+      <workItem from="1599266159446" duration="1687000" />
+      <workItem from="1599267858068" duration="39313000" />
+      <workItem from="1599873072667" duration="1095000" />
+      <workItem from="1599874209123" duration="2525000" />
+      <workItem from="1599876786774" duration="6874000" />
+      <workItem from="1600495667243" duration="6875000" />
+      <workItem from="1600586851376" duration="506000" />
+      <workItem from="1600587414832" duration="10070000" />
+      <workItem from="1600614977642" duration="4263000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CustomRealmTest_testAuthentication - 2019.09.08 at 14h 17m 22s.xml">
-      <configuration name="CustomRealmTest.testAuthentication" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CustomRealmTest_testAuthentication - 2019.09.08 at 14h 19m 01s.xml">
-      <configuration name="CustomRealmTest.testAuthentication" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CustomRealmTest_testAuthentication - 2019.10.06 at 15h 04m 11s.xml">
-      <configuration name="CustomRealmTest.testAuthentication" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CustomRealmTest_testAuthentication - 2019.10.06 at 15h 56m 24s.xml">
-      <configuration name="CustomRealmTest.testAuthentication" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CustomRealmTest_testAuthentication - 2019.10.06 at 15h 58m 45s.xml">
-      <configuration name="CustomRealmTest.testAuthentication" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CustomRealmTest_testAuthentication - 2019.10.06 at 15h 59m 10s.xml">
-      <configuration name="CustomRealmTest.testAuthentication" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CustomRealmTest_testAuthentication - 2019.10.06 at 16h 01m 44s.xml">
-      <configuration name="CustomRealmTest.testAuthentication" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CustomRealmTest_testAuthentication - 2019.10.06 at 16h 02m 06s.xml">
-      <configuration name="CustomRealmTest.testAuthentication" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CustomRealmTest_testAuthentication - 2019.10.06 at 16h 02m 37s.xml">
-      <configuration name="CustomRealmTest.testAuthentication" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CustomRealmTest_testAuthentication - 2019.10.07 at 15h 22m 47s.xml">
       <configuration name="CustomRealmTest.testAuthentication" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RedisLockApplicationTests_contextLoads - 2020.09.19 at 14h 11m 32s.xml">
+      <configuration name="RedisLockApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisLockApplicationTests_contextLoads - 2020.09.19 at 14h 13m 12s.xml">
+      <configuration name="RedisLockApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisLockApplicationTests_contextLoads - 2020.09.19 at 14h 15m 23s.xml">
+      <configuration name="RedisLockApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisLockApplicationTests_contextLoads_(1) - 2020.09.19 at 14h 16m 29s.xml">
+      <configuration name="RedisLockApplicationTests.contextLoads (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisLockApplicationTests_contextLoads_(1) - 2020.09.19 at 14h 27m 49s.xml">
+      <configuration name="RedisLockApplicationTests.contextLoads (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisLockApplicationTests_contextLoads_(1) - 2020.09.19 at 14h 29m 15s.xml">
+      <configuration name="RedisLockApplicationTests.contextLoads (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisLockApplicationTests_contextLoads_(1) - 2020.09.19 at 14h 32m 04s.xml">
+      <configuration name="RedisLockApplicationTests.contextLoads (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisLockApplicationTests_contextLoads_(1) - 2020.09.19 at 14h 32m 57s.xml">
+      <configuration name="RedisLockApplicationTests.contextLoads (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SsoServerApplicationTests_contextLoads - 2020.09.19 at 14h 09m 18s.xml">
+      <configuration name="SsoServerApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="226336000" />
+    <option name="totallyTimeSpent" value="310745000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1196,12 +1448,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.50214595" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27521458" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41230068" sideWeight="0.2864807" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839224" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27521458" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
@@ -1209,18 +1462,18 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997722" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22892939" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42759407" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839224" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29840547" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839224" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26879272" sideWeight="0.49785408" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26984978" sideWeight="0.49405771" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3861048" sideWeight="0.71351933" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41619155" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32801822" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839224" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23927039" sideWeight="0.49405771" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23766094" sideWeight="0.5059423" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1230,7 +1483,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32839224" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1248,7 +1501,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="7" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1257,245 +1510,71 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/rabbitmq-producer/src/main/java/com/example/demo/producer/RabbitSender.java">
+    <entry file="file://$PROJECT_DIR$/redis-lock/src/main/java/com/example/ssoserver/entiy/UserVo.java" />
+    <entry file="file://$PROJECT_DIR$/redis-lock/redis-lock.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-consumer-test/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-consumer-test/pom.xml">
+    <entry file="file://$PROJECT_DIR$/sso-server/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="60" column="21" lean-forward="false" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
+        <state relative-caret-position="825">
+          <caret line="33" column="21" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="33" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-consumer-test/src/main/java/com/example/rabbitmqconsumer/config/AmqpConfig.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.2.1.RELEASE/spring-data-redis-2.2.1.RELEASE.jar!/org/springframework/data/redis/core/ValueOperations.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="700">
+          <caret line="38" column="64" lean-forward="false" selection-start-line="38" selection-start-column="57" selection-end-line="38" selection-end-column="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-producer/src/main/java/com/example/demo/service/RabbitmqServiceImpl.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="99" column="21" lean-forward="true" selection-start-line="99" selection-start-column="21" selection-end-line="99" selection-end-column="21" />
+        <state relative-caret-position="109850">
+          <caret line="4787" column="30" lean-forward="false" selection-start-line="4787" selection-start-column="30" selection-end-line="4787" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-producer/src/main/java/com/example/demo/service/RabbitmqService.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.2.1.RELEASE/spring-data-redis-2.2.1.RELEASE.jar!/org/springframework/data/redis/core/RedisOperations.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        <state relative-caret-position="550">
+          <caret line="37" column="51" lean-forward="false" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/model/DelayTypeEnum.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.2.1.RELEASE/spring-data-redis-2.2.1.RELEASE.jar!/org/springframework/data/redis/core/RedisTemplate.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="19" />
+        <state relative-caret-position="5250">
+          <caret line="253" column="17" lean-forward="false" selection-start-line="253" selection-start-column="17" selection-end-line="253" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/2.2.1.RELEASE/spring-amqp-2.2.1.RELEASE.jar!/org/springframework/amqp/core/BindingBuilder.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.9.RELEASE/spring-core-5.1.9.RELEASE.jar!/org/springframework/util/SerializationUtils.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="43" column="23" lean-forward="false" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+        <state relative-caret-position="-358">
+          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-consumer-test/src/main/java/com/example/rabbitmqconsumer/config/AmqpConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1950">
-          <caret line="90" column="50" lean-forward="false" selection-start-line="90" selection-start-column="35" selection-end-line="90" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-producer/src/main/java/com/example/demo/config/AmqpConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shirotest/src/main/java/com/study/util/Decrypt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shirotest/src/main/java/com/study/util/Encrypt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="43" column="6" lean-forward="false" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0-sources.jar!/org/apache/shiro/SecurityUtils.java">
+    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/cache/RedisCache.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
-          <caret line="30" column="22" lean-forward="false" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+          <caret line="59" column="44" lean-forward="false" selection-start-line="59" selection-start-column="44" selection-end-line="59" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/webapp/WEB-INF/success.html">
+    <entry file="file://$PROJECT_DIR$/redis-lock/src/main/java/com/example/redis/util/RedisUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0-sources.jar!/org/apache/shiro/authc/UsernamePasswordToken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="109" column="11" lean-forward="false" selection-start-line="109" selection-start-column="11" selection-end-line="109" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/webapp/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0-sources.jar!/org/apache/shiro/subject/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7450">
-          <caret line="329" column="17" lean-forward="false" selection-start-line="329" selection-start-column="17" selection-end-line="329" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0-sources.jar!/org/apache/shiro/authc/SimpleAuthenticationInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="119" column="120" lean-forward="false" selection-start-line="119" selection-start-column="105" selection-end-line="119" selection-end-column="120" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shiroweb2/shiroweb2.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring-mvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-consumer-test/src/main/java/com/example/rabbitmqconsumer/service/MessageHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="24" column="54" lean-forward="false" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/util/FastJsonConvertUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/config/AmqpConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/controller/RabbitmqController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="30" column="34" lean-forward="false" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/config/RabbitMQConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2225">
-          <caret line="105" column="0" lean-forward="false" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/service/DelayMessageSender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/service/RabbitmqService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-consumer-test/src/main/java/com/example/rabbitmqconsumer/service/DeadLetterQueueConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="27" column="52" lean-forward="false" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rabbitmq-producer-test/src/main/java/com/example/demo/service/RabbitmqServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/session/RedisSessionDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1175">
-          <caret line="59" column="13" lean-forward="false" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/PdfUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-467">
-          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="274">
+          <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1504,160 +1583,273 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="142" column="17" lean-forward="false" selection-start-line="142" selection-start-column="17" selection-end-line="142" selection-end-column="17" />
+        <state relative-caret-position="198">
+          <caret line="76" column="17" lean-forward="false" selection-start-line="72" selection-start-column="4" selection-end-line="76" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.2.6.RELEASE/spring-context-support-4.2.6.RELEASE.jar!/org/springframework/scheduling/quartz/QuartzJobBean.class">
+    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring-mvc-quartz1.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-216">
-          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.2.6.RELEASE/spring-context-support-4.2.6.RELEASE.jar!/org/springframework/scheduling/quartz/CronTriggerFactoryBean.class">
+    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring-mvc.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="74" column="33" lean-forward="false" selection-start-line="74" selection-start-column="19" selection-end-line="74" selection-end-column="33" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context-support/4.2.6.RELEASE/spring-context-support-4.2.6.RELEASE.jar!/org/springframework/scheduling/quartz/MethodInvokingJobDetailFactoryBean.class">
+    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="129" column="68" lean-forward="false" selection-start-line="129" selection-start-column="62" selection-end-line="129" selection-end-column="68" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.9.RELEASE/spring-core-5.1.9.RELEASE.jar!/org/springframework/util/MethodInvoker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-          <folding>
-            <element signature="e#1232#1233#0" expanded="true" />
-            <element signature="e#1280#1281#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring-dao.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="71" lean-forward="false" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="71" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.8.0/jedis-2.8.0.jar!/redis/clients/jedis/JedisPool.class">
+    <entry file="file://$PROJECT_DIR$/redis-lock/src/test/java/com/example/redis/RedisLockApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="375">
+          <caret line="22" column="10" lean-forward="false" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis-lock/src/main/java/com/example/redis/controller/annotation/PermissionLimit.java" />
+    <entry file="file://$PROJECT_DIR$/redis-lock/src/main/java/com/example/redis/service/impl/AdminBizImpl.java" />
+    <entry file="file://$PROJECT_DIR$/redis-lock/src/main/java/com/example/redis/dao/XxlJobGroupDao.java" />
+    <entry file="file://$PROJECT_DIR$/redis-lock/src/main/java/com/example/redis/dao/XxlJobInfoDao.java" />
+    <entry file="file://$PROJECT_DIR$/redis-lock/src/main/java/com/example/redis/dao/XxlJobLogDao.java" />
+    <entry file="file://$PROJECT_DIR$/redis-lock/src/main/java/com/example/redis/dao/XxlJobLogReportDao.java" />
+    <entry file="file://$PROJECT_DIR$/redis-lock/src/main/java/com/example/redis/dao/XxlJobUserDao.java" />
+    <entry file="file://$PROJECT_DIR$/redis-lock/src/main/java/com/example/redis/controller/resolver/WebExceptionResolver.java" />
+    <entry file="file://$PROJECT_DIR$/redis-lock/src/main/java/com/example/redis/controller/UserController.java" />
+    <entry file="file://$PROJECT_DIR$/redis-lock/src/main/resources/logback.xml" />
+    <entry file="file://$PROJECT_DIR$/xxl-job/xxl-job.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sso-client2/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring-redis.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="42" lean-forward="true" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/cache/RedisCache.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/cache/RedisCacheManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="366">
+          <caret line="18" column="42" lean-forward="false" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/shiro/realm/CustomRealm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="24" />
+        <state relative-caret-position="276">
+          <caret line="95" column="36" lean-forward="false" selection-start-line="95" selection-start-column="36" selection-end-line="95" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xxl-job/xxl-job-admin/src/main/java/com/xxl/job/admin/dao/XxlJobGroupDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xxl-job/xxl-job-admin/src/main/java/com/xxl/job/admin/core/trigger/XxlJobTrigger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring.xml">
+    <entry file="file://$PROJECT_DIR$/xxl-job/xxl-job-admin/src/main/java/com/xxl/job/admin/core/thread/JobTriggerPoolHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="49" column="42" lean-forward="false" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="42" />
+        <state relative-caret-position="2175">
+          <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/session/CustomSessionManager.java">
+    <entry file="file://$PROJECT_DIR$/xxl-job/xxl-job-core/src/main/java/com/xxl/job/core/biz/client/ExecutorBizClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        <state relative-caret-position="1000">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/controller/UserController.java">
+    <entry file="file://$PROJECT_DIR$/xxl-job/xxl-job-core/src/main/java/com/xxl/job/core/util/GsonTool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="29" column="47" lean-forward="false" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="47" />
+        <state relative-caret-position="1000">
+          <caret line="50" column="86" lean-forward="false" selection-start-line="50" selection-start-column="86" selection-end-line="50" selection-end-column="86" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/offsetsDetail.java">
+    <entry file="file://$PROJECT_DIR$/xxl-job/xxl-job-core/src/main/java/com/xxl/job/core/util/XxlJobRemotingUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="25" />
-          <folding>
-            <element signature="e#83#84#0" expanded="true" />
-            <element signature="e#132#133#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1350">
+          <caret line="68" column="38" lean-forward="false" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/resources/spring/spring-mvc-quartz1.xml">
+    <entry file="file://$PROJECT_DIR$/redis-lock/src/main/java/com/example/redis/controller/RedisLockController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xxl-job/xxl-job-admin/src/main/java/com/xxl/job/admin/XxlJobAdminApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-springboot/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-springboot/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis-lock/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-spring/src/main/resources/applicationcontext-xxl-job.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis-lock/src/main/java/com/example/redis/RedisLockApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xxl-job/xxl-job-admin/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-325">
+          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xxl-job/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2893">
+          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xxl-job/xxl-job-admin/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <caret line="72" column="37" lean-forward="false" selection-start-line="72" selection-start-column="31" selection-end-line="72" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/AutoJobActDis.java">
+    <entry file="file://$PROJECT_DIR$/xxl-job/xxl-job-admin/xxl-job-admin.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        <state relative-caret-position="-1200">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis-lock/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="60" column="45" lean-forward="true" selection-start-line="60" selection-start-column="45" selection-end-line="60" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis-lock/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="48" lean-forward="false" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis-lock/src/main/java/com/example/redis/controller/DemoJobHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/JedisUtil.java">
+    <entry file="file://$PROJECT_DIR$/redis-lock/src/main/java/com/example/redis/configure/XxlJobConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shiroweb2/src/main/java/com/study/util/RedisDistributedLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        <state relative-caret-position="25">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1718,7 +1910,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>rabbitmq-consumer-test</last-edited>
+          <last-edited>xxl-job-executor-sample-jfinal</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

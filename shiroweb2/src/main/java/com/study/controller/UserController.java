@@ -1,15 +1,21 @@
 package com.study.controller;
 
+import com.study.util.RedisDistributedLock;
 import com.study.vo.User;
 import org.apache.shiro.SecurityUtils;
 import org.apache.shiro.authc.UsernamePasswordToken;
 import org.apache.shiro.authz.annotation.RequiresPermissions;
 import org.apache.shiro.authz.annotation.RequiresRoles;
 import org.apache.shiro.subject.Subject;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
+import redis.clients.jedis.Jedis;
+import redis.clients.jedis.JedisPool;
+
+import javax.annotation.Resource;
 
 /**
  * 用户登录
@@ -62,5 +68,14 @@ public class UserController {
     @RequestMapping(value="/testPermission",method=RequestMethod.GET)
     public String testPermission(){
         return "testRole3 success";
+    }
+
+    @Autowired
+    private RedisDistributedLock redisDistributedLock;
+
+    @ResponseBody
+    @RequestMapping("/test")
+    public void test(){
+        System.out.println(redisDistributedLock.lock("LOCK-DATA"));
     }
 }

@@ -10,8 +10,24 @@
         <module name="rabbitmq-consumer" />
         <module name="rabbitmq-consumer-test" />
         <module name="rabbitmq-producer-test" />
+        <module name="redis-lock" />
         <module name="shirotest" />
         <module name="shiroweb2" />
+        <module name="springsecurityweb" />
+        <module name="sso-client1" />
+        <module name="sso-client1 (1)" />
+        <module name="sso-client2" />
+        <module name="sso-client2 (1)" />
+        <module name="sso-server" />
+        <module name="sso-server (1)" />
+        <module name="xxl-job-admin" />
+        <module name="xxl-job-core" />
+        <module name="xxl-job-executor-sample-frameless" />
+        <module name="xxl-job-executor-sample-jboot" />
+        <module name="xxl-job-executor-sample-jfinal" />
+        <module name="xxl-job-executor-sample-nutz" />
+        <module name="xxl-job-executor-sample-spring" />
+        <module name="xxl-job-executor-sample-springboot" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -20,11 +36,30 @@
       <module name="rabbitmq-consumer-test" target="1.8" />
       <module name="rabbitmq-producer" target="1.8" />
       <module name="rabbitmq-producer-test" target="1.8" />
+      <module name="redis-lock" target="1.8" />
       <module name="shiro_web" target="1.5" />
       <module name="shirotest" target="1.5" />
       <module name="shiroweb" target="1.5" />
       <module name="shiroweb2" target="1.6" />
+      <module name="springsecurityweb" target="1.8" />
+      <module name="sso-client1" target="1.8" />
+      <module name="sso-client1 (1)" target="1.8" />
+      <module name="sso-client2" target="1.8" />
+      <module name="sso-client2 (1)" target="1.8" />
+      <module name="sso-server" target="1.8" />
+      <module name="sso-server (1)" target="1.8" />
+      <module name="ssoserver" target="1.7" />
       <module name="studyshiro" target="1.5" />
+      <module name="xxl-job" target="1.8" />
+      <module name="xxl-job-admin" target="1.8" />
+      <module name="xxl-job-core" target="1.8" />
+      <module name="xxl-job-executor-sample-frameless" target="1.8" />
+      <module name="xxl-job-executor-sample-jboot" target="1.8" />
+      <module name="xxl-job-executor-sample-jfinal" target="1.8" />
+      <module name="xxl-job-executor-sample-nutz" target="1.8" />
+      <module name="xxl-job-executor-sample-spring" target="1.8" />
+      <module name="xxl-job-executor-sample-springboot" target="1.8" />
+      <module name="xxl-job-executor-samples" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

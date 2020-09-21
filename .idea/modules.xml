@@ -4,9 +4,24 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/rabbitmq-consumer-test/rabbitmq-consumer-test.iml" filepath="$PROJECT_DIR$/rabbitmq-consumer-test/rabbitmq-consumer-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/rabbitmq-producer-test/rabbitmq-producer-test.iml" filepath="$PROJECT_DIR$/rabbitmq-producer-test/rabbitmq-producer-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-lock/redis-lock.iml" filepath="$PROJECT_DIR$/redis-lock/redis-lock.iml" />
       <module fileurl="file://$PROJECT_DIR$/shirotest/shirotest.iml" filepath="$PROJECT_DIR$/shirotest/shirotest.iml" />
       <module fileurl="file://$PROJECT_DIR$/shiroweb2/shiroweb2.iml" filepath="$PROJECT_DIR$/shiroweb2/shiroweb2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springsecurityweb/springsecurityweb.iml" filepath="$PROJECT_DIR$/springsecurityweb/springsecurityweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso-client1/sso-client1.iml" filepath="$PROJECT_DIR$/sso-client1/sso-client1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso-client2/sso-client2.iml" filepath="$PROJECT_DIR$/sso-client2/sso-client2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso-server/sso-server.iml" filepath="$PROJECT_DIR$/sso-server/sso-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/studyshiro.iml" filepath="$PROJECT_DIR$/studyshiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxl-job/xxl-job.iml" filepath="$PROJECT_DIR$/xxl-job/xxl-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxl-job/xxl-job-admin/xxl-job-admin.iml" filepath="$PROJECT_DIR$/xxl-job/xxl-job-admin/xxl-job-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxl-job/xxl-job-core/xxl-job-core.iml" filepath="$PROJECT_DIR$/xxl-job/xxl-job-core/xxl-job-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-frameless/xxl-job-executor-sample-frameless.iml" filepath="$PROJECT_DIR$/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-frameless/xxl-job-executor-sample-frameless.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-jboot/xxl-job-executor-sample-jboot.iml" filepath="$PROJECT_DIR$/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-jboot/xxl-job-executor-sample-jboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-jfinal/xxl-job-executor-sample-jfinal.iml" filepath="$PROJECT_DIR$/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-jfinal/xxl-job-executor-sample-jfinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-nutz/xxl-job-executor-sample-nutz.iml" filepath="$PROJECT_DIR$/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-nutz/xxl-job-executor-sample-nutz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-spring/xxl-job-executor-sample-spring.iml" filepath="$PROJECT_DIR$/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-spring/xxl-job-executor-sample-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-springboot/xxl-job-executor-sample-springboot.iml" filepath="$PROJECT_DIR$/xxl-job/xxl-job-executor-samples/xxl-job-executor-sample-springboot/xxl-job-executor-sample-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxl-job/xxl-job-executor-samples/xxl-job-executor-samples.iml" filepath="$PROJECT_DIR$/xxl-job/xxl-job-executor-samples/xxl-job-executor-samples.iml" />
     </modules>
   </component>
 </project>

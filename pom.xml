@@ -13,6 +13,11 @@
         <module>shiroweb2</module>
         <module>shiroweb2</module>
         <module>shiroweb2</module>
+        <module>sso-server</module>
+        <module>sso-client1</module>
+        <module>sso-client2</module>
+        <module>springsecurityweb</module>
+        <module>xxl-job</module>
     </modules>
 
 
